@@ -1,0 +1,9 @@
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('iphone','apple',50000000, 'rojo');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('iphone','apple',30000000, 'blanco');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('iphone','apple',40000000, 'verde');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('iphone','apple',30000000, 'negro');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('s21','samsumg',20000000, 'gris');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('a14','samsumg',60000000, 'blanco');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('redmi3','xiaomi',70000000, 'amarillo');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('iphone','apple',50000000, 'negro');
+INSERT INTO celular (nombre, marca, precio, color) VALUES ('y9','huawei',40000000, 'rojo');
